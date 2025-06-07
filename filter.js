@@ -13,7 +13,7 @@
     'use strict';
 
     // Configuration
-    const TARGET_WORDS = ['🇺🇦', '🇮🇱','ה']; // Case-insensitive
+    const TARGET_WORDS = ['🇺🇦', '🇮🇱','ה','test']; // Case-insensitive
     const CHECK_INTERVAL = 1000; // Check every 1 second
 
     function removeTweetsWithWord() {
