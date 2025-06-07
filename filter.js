@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.0
 // @description  Removes tweets containing specific words or emojis from Twitter timeline
-// @author       Imperialist Boomerang
+// @author       Connor Kaiser
 // @match        https://twitter.com/*
 // @match        https://x.com/*
 // @grant        none
