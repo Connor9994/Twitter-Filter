@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Twitter Word Filter
 // @namespace    http://tampermonkey.net/
-// @version      1.1
+// @version      1.0
 // @description  Removes tweets containing specific words or emojis from Twitter timeline
 // @author       Imperialist Boomerang
 // @match        https://twitter.com/*
@@ -13,7 +13,7 @@
     'use strict';
 
     // Configuration
-    const TARGET_WORDS = ['🇺🇦', '🇮🇱','ה','test']; // Case-insensitive
+    const TARGET_WORDS = ['🇺🇦', '🇮🇱','ה']; // Case-insensitive
     const CHECK_INTERVAL = 1000; // Check every 1 second
 
     function removeTweetsWithWord() {
