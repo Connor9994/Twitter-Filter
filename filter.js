@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Twitter Word Filter
 // @namespace    http://tampermonkey.net/
-// @version      1.2
+// @version      1.1
 // @description  Removes tweets containing specific words or emojis from Twitter timeline
 // @author       Imperialist Boomerang
 // @match        https://twitter.com/*
