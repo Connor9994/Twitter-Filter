@@ -3,6 +3,12 @@
 ## Overview
 This user script automatically filters out tweets containing specific words, phrases, or emojis from your Twitter/X timeline. It runs in the background while you browse Twitter/X and removes matching tweets in real-time. The [default block feature](https://x.com/settings/muted_keywords) on Twitter only blocks content in the body of the post. This will also filter out users with those items in their names. 
 
+- Avoid spoilers
+- Avoid politics
+- Avoid parody accounts
+- Avoid triggering content
+- Avoid anything :)
+
 ## Features
 - **Real-time filtering**: Continuously scans your timeline as you browse
 - **Emoji support**: Filters tweets containing specific emojis (e.g., flags)
