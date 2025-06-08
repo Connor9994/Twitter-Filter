@@ -13,11 +13,10 @@ This user script automatically filters out tweets containing specific words, phr
 ## Features
 - **Real-time filtering**: Continuously scans your timeline as you browse
 - **Emoji support**: Filters tweets containing specific emojis (e.g., flags)
-- **Image alt-text scanning**: Detects keywords in image descriptions
 - **Dynamic content handling**: Works with Twitter/X's infinite scrolling
 - **Case-insensitive matching**: Ignores capitalization differences
 - **Customizable word list**: Easily modify the filter terms
-- **Console logging**: Optionally logs removed tweets for debugging
+- **Console logging**: Optionally displays removed tweets for debugging
 
 ## Installation
 1. Install a userscript manager:
