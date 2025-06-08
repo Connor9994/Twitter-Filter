@@ -18,7 +18,7 @@ This user script automatically filters out tweets containing specific words, phr
    - [Greasemonkey](https://addons.mozilla.org/firefox/addon/greasemonkey/) (Firefox)
 
 2. Install the script:
-   - [Direct Install Link](https://raw.githubusercontent.com/Connor9994/Twitter-Filter/refs/heads/main/filter.js)
+   - [Direct Install Link](https://raw.githubusercontent.com/Connor9994/Twitter-Filter/refs/heads/main/filter.user.js)
    - Or copy/paste the script code into a new userscript
 
 ## Configuration
