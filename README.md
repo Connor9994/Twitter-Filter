@@ -1,7 +1,7 @@
 # Twitter Word Filter
 
 ## Overview
-This user script automatically filters out tweets containing specific words, phrases, or emojis from your Twitter/X timeline. It runs in the background while you browse Twitter/X and removes matching tweets in real-time.
+This user script automatically filters out tweets containing specific words, phrases, or emojis from your Twitter/X timeline. It runs in the background while you browse Twitter/X and removes matching tweets in real-time. The default blocks on Twitter only block content in the body of the post. This will also filter out users with those items in their names. 
 
 ## Features
 - **Real-time filtering**: Continuously scans your timeline as you browse
