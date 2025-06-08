@@ -1,4 +1,4 @@
-# Twitter Word Filter - Tampermonkey/Greasemonkey Script
+# Twitter Word Filter
 
 ## Overview
 This user script automatically filters out tweets containing specific words, phrases, or emojis from your Twitter/X timeline. It runs in the background while you browse Twitter/X and removes matching tweets in real-time.
