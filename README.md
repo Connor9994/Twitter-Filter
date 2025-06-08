@@ -26,7 +26,7 @@ Customize the filter by editing these values in the script:
 
 ```javascript
 // Words/emojis to filter (case-insensitive)
-const TARGET_WORDS = ['🇺🇦', '🇮🇱','ה','NAFO']; 
+const TARGET_WORDS = ['🇺🇦', '🇮🇱','NAFO','Trump','Elon']; 
 
 // How often to check for new tweets (milliseconds)
 const CHECK_INTERVAL = 1000; 
