@@ -7,7 +7,7 @@
 // @match        https://twitter.com/*
 // @match        https://x.com/*
 // @grant        none
-// @iconURL    https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwebstockreview.net%2Fimages%2Ftwitter-icons-png-1.png
+// @iconURL      https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwebstockreview.net%2Fimages%2Ftwitter-icons-png-1.png
 // ==/UserScript==
 
 (function() {
