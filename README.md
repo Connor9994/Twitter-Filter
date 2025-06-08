@@ -5,6 +5,7 @@ This user script automatically filters out tweets containing specific words, phr
 
 - Avoid spoilers
 - Avoid politics
+- Avoid bots
 - Avoid parody accounts
 - Avoid triggering content
 - Avoid anything :)
