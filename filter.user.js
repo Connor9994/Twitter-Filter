@@ -17,8 +17,6 @@
     const WORDS_FILTER_ENABLED = true;
     const WHO_TO_FOLLOW_REMOVAL_ENABLED = true;
     const TARGET_WORDS = ['🇺🇦', '🇮🇱','ה', 'Musk']; // Case-insensitive
-    // const CHECK_INTERVAL = 1000; // Check every 1 second
-    // No need for interval if using MutationObserver
 
     function removeTweetsWithWord() {
         const timeline = document.querySelector('[aria-label*="Timeline"]');
@@ -116,8 +114,6 @@
     // Initial run
     WORDS_FILTER_ENABLED ? removeTweetsWithWord() : null;
     WHO_TO_FOLLOW_REMOVAL_ENABLED ? removeWhoToFollow() : null;
-    // setInterval(removeTweetsWithWord, CHECK_INTERVAL);
-    // No need to use setInterval if using MutationObserver
 
     // MutationObserver for dynamic content
     const observer = new MutationObserver(() => {
