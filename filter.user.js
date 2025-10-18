@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.0
 // @description  Removes tweets containing specific words or emojis and "Who to follow" sections from Twitter timeline
-// @author       Connor Kaiser
+// @author       Connor Kaiser (Main), GitHub user "krivdat" for "Who to follow" section & optimization
 // @match        https://twitter.com/*
 // @match        https://x.com/*
 // @grant        none
