@@ -9,7 +9,7 @@ This user script provides two functions and both can be enabled/disabled:
 - Avoid parody accounts
 - Avoid triggering content
 - Avoid anything :)
-2. Removes sections with suggested accounts to follow, which can become distracting when you want to focus only on account you follow. The sections are removed from the main timeline as well as from the side panel.
+2. Removes sections with suggested accounts to follow, which can become distracting when you want to focus only on accounts you follow. The sections are removed from the main timeline as well as from the side panel.
 
 ## Features
 - **Real-time filtering**: Continuously scans your timeline as you browse
