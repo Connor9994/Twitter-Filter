@@ -25,9 +25,8 @@ This user script provides two functions and both can be enabled/disabled:
    - [Greasemonkey](https://addons.mozilla.org/firefox/addon/greasemonkey/) (Firefox)
 
 2. Install the script:
-   - [Direct Install Link](https://raw.githubusercontent.com/Connor9994/Twitter-Filter/refs/heads/main/filter.user.js)
+   - [Direct Install Link](https://github.com/Connor9994/Twitter-Filter/raw/refs/heads/main/filter.user.js)
    - Or copy/paste the script code into a new userscript
-
 ## Configuration
 Customize the filter by editing these values in the script:
 
