@@ -1,5 +1,7 @@
 # Twitter Word Filter and Bloat Remover
 
+![GitHub stars](https://img.shields.io/github/stars/Connor9994/Twitter-Filter?style=social) ![GitHub forks](https://img.shields.io/github/forks/Connor9994/Twitter-Filter?style=social) ![GitHub issues](https://img.shields.io/github/issues/Connor9994/Twitter-Filter) 
+
 ## Overview
 This user script provides two functions and both can be enabled/disabled:
 1. Automatically filters out tweets containing specific words, phrases, or emojis from your Twitter/X timeline. It runs in the background while you browse Twitter/X and removes matching tweets in real-time. The [default block feature](https://x.com/settings/muted_keywords) on Twitter only blocks content in the body of the post. This will also filter out users with those items in their names. 
